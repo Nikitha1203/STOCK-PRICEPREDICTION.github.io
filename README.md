@@ -1,10 +1,8 @@
 # STOCK-PRICEPREDICTION.github.io
-Tableau dashboards :
+Tableau dashboard :
 
-<iframe width="800" height="600" src="https://public.tableau.com/views/stock_dashboard1/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
- "></iframe>
-
-
+https://public.tableau.com/views/stock_dashboard1/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+ 
 system architecture:
 
 ![image](https://github.com/Nikitha1203/STOCK-PRICEPREDICTION.github.io/assets/109364397/ade54419-490a-412d-b770-ee086ac51107)
